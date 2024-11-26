@@ -14,7 +14,8 @@ function App() {
             backgroundColor: "#eeeeee"}}
         >
         {/* two write comments inside return you have to turn use curly braces so it is treated as javascript
-    anything inside double curly braces is object for example the style style has a json of attributes */}
+    anything inside double curly braces is object for example the style style has a json of attributes    
+    jsx requires braces to embeded*/}
             <Router>
                 <Appbar />
                 <Routes>
